@@ -1,4 +1,4 @@
-import React, { ReactChildren } from 'react'
+import React from 'react'
 
 const Layout: React.FC = ({ children }) => {
   return <div>{children}</div>
