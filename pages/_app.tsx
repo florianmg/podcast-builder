@@ -1,5 +1,5 @@
-import Navbar from '../components/Navbar.component'
-import Layout from '../components/Layout.component'
+import Navbar from '../components/Navbar'
+import Layout from '../components/Layout'
 
 import '../styles/globals.css'
 
